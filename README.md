@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <strong>render React components to Sketch; tailor-made for design systems</strong>
+  <strong>render React components to Sketch; tailor-made for design systems and applications</strong>
 </div>
 
 ## Quick-start 🏃‍
